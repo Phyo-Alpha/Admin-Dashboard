@@ -134,7 +134,7 @@ const Text = () => {
   return (
     <a
       className="gh-link"
-      href="https://github.com/refinedev/refine/tree/master/examples/app-crm-minimal"
+      href="https://github.com/Phyo-Alpha/Admin-Dashboard "
       target="_blank"
       rel="noreferrer"
       style={{
